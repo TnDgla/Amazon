@@ -93,7 +93,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [React.js Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
   2. Design the homepage layout with product listings.
      - **Reading:** [Material-UI Components](https://mui.com/components/)
-     - **Video:** [Material-UI Tutorial](https://www.youtube.com/watch?v=HjD1wjzYLG8)
+     - **Video:** [Material-UI Tutorial](https://www.youtube.com/watch?v=Xoz31I1FuiY&t=116s)
 
 - **Deliverables:**
   - Responsive homepage with product placeholders.
@@ -108,7 +108,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Firebase Authentication Tutorial](https://www.youtube.com/watch?v=PKwu15ldZ7k)
   2. Create login and registration forms.
      - **Reading:** [React Forms](https://reactjs.org/docs/forms.html)
-     - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=5Y4STV8bnK4)
+     - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=590s)
 
 - **Deliverables:**
   - Functional login/signup system.
@@ -120,7 +120,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Fetch and display products from Firebase.
      - **Reading:** [Firebase Realtime Database Docs](https://firebase.google.com/docs/database)
-     - **Video:** [Firebase Database Integration](https://www.youtube.com/watch?v=8pKjULHzs0s)
+     - **Video:** [Firebase Database Integration](https://www.youtube.com/watch?v=2hR-uWjBAgw)
   2. Implement "Add to Cart" and "Remove from Cart" features.
      - **Reading:** [React State Management](https://reactjs.org/docs/hooks-state.html)
      - **Video:** [React State Tutorial](https://www.youtube.com/watch?v=35lXWvCuM8o)
@@ -135,7 +135,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Set up Stripe API for payment processing.
      - **Reading:** [Stripe API Documentation](https://stripe.com/docs)
-     - **Video:** [Stripe Payment Integration](https://www.youtube.com/watch?v=5YnBGS2sC6o)
+     - **Video:** [Stripe Payment Integration](https://www.youtube.com/watch?v=lbEFSP1WAv0&t=21s)
   2. Implement checkout and payment confirmation pages.
      - **Reading:** [React Router Docs](https://reactrouter.com/docs)
      - **Video:** [React Router Tutorial](https://www.youtube.com/watch?v=Ul3y1LXxzdU)
@@ -153,7 +153,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=KKyag6t98g8)
   2. Test features and fix bugs.
      - **Reading:** [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-     - **Video:** [React Testing Tutorial](https://www.youtube.com/watch?v=8Xwq35cPwYg)
+     - **Video:** [React Testing Tutorial](https://www.youtube.com/watch?v=tAyadk4g3Zk)
 
 - **Deliverables:**
   - Fully deployed and functional Amazon Clone accessible via a public URL.
